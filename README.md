@@ -11,4 +11,4 @@ The IceCube detector is made of Antarctic ice and is burried beneath the surface
 
 Neutrinos are not observed directly. When they interact with the ice, the produce secondary particles the emit Cherenkov light, which is a result of the particles traveling faster through the ice than light passing through the ice. The sensors collect this light, which is digitized and time stamped.
 
-<icecube_neutrino_detector_diagram.svg>
+<img src = "icecube_neutrino_detector_diagram.svg" width = "300">
